@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.id.example.kula">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kula.noActionBar">
+        <activity android:name=".ReservasiStrukActivity"></activity>
+        <activity android:name=".ReservasiTransferActivity" />
+        <activity android:name=".ReservasiTransferActivity" />
+        <activity android:name=".ReservasiTransaksiActivity" />
+        <activity android:name=".layanan.WeddingHrgActivity" />
+        <activity android:name=".layanan.WeddingVdActivity" />
+        <activity android:name=".layanan.WeddingFtActivity" />
+        <activity android:name=".layanan.EventFtActivity" />
+        <activity android:name=".layanan.EventVdActivity" />
+        <activity android:name=".layanan.EventHrgActivity" />
+        <activity android:name=".layanan.SesiFtActivity" />
+        <activity android:name=".layanan.SesiVdActivity" />
+        <activity android:name=".layanan.SesiHrgActivity" />
+        <activity android:name=".layanan.ProdukFtActivity" />
+        <activity android:name=".layanan.ProdukVdActivity" />
+        <activity android:name=".layanan.ProdukHrgActivity" />
+        <activity android:name=".onboarding.OnboardingOneActivity" />
+        <activity android:name=".onboarding.OnboardingTwoActivity" />
+        <activity android:name=".onboarding.OnboardingThreeActivity" />
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".HomeAboutActivity" />
+        <activity android:name=".HomeDataActivity" />
+        <activity android:name=".HomeLayananActivity" />
+        <activity android:name=".HomeReservasiActivity" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

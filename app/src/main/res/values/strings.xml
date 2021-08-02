@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kula</string>
+    <string name="profesional">Profesional</string>
+    <string name="profesional_desc">Kepuasan pelanggan adalah tanggung jawab kami.</string>
+    <string name="creative">Kreatif</string>
+    <string name="creative_desc">Selalu menjelajahi ide-ide yang menarik dan seru.</string>
+    <string name="low_price">Terjangkau</string>
+    <string name="low_price_desc">Harga yang baik dengan kualitas yang terbaik.</string>
+    <string name="get_started">Memulai</string>
+    <string name="sign_in">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="harapTunggu">Harap tunggu</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_tlp">Nomor Telepon</string>
+    <string name="tgl_pesan">Tanggal Pesan (dd-mm-yyyy)</string>
+    <string name="harga">Harga</string>
+    <string name="tgl_pelaksanaan">Tanggal Pelaksanaan (dd-mm-yyyy)</string>
+    <string name="download">download</string>
+    <string-array name="layanan">
+        <item>Pernikahan</item>
+        <item>Acara</item>
+        <item>Sesi Foto</item>
+        <item>Produk</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210729919718",
+    "project_id": "kula-21",
+    "storage_bucket": "kula-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210729919718:android:6087c12ad7c7cbec210727",
+        "android_client_info": {
+          "package_name": "co.id.example.kula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210729919718-q8avuid5iqphmfanfolqb4f6qnjks3js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.id.example.kula",
+            "certificate_hash": "38a19267516e375fc696fb5590d2ff84f4d382b2"
+          }
+        },
+        {
+          "client_id": "210729919718-l0641e4hu4qemtmf3745dpvbpv53qjbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSh1Z3SpWl5cBKgHmpccaVLzrvZN-t484"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210729919718-l0641e4hu4qemtmf3745dpvbpv53qjbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
